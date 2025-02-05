@@ -1406,7 +1406,7 @@ game.Players.LocalPlayer.Chatted:Connect(
     end
 )
 
-addCommand("touch",{"player"},function(args)
+addCommand("touch"),{"player"},function(args)
 	for i,v in pairs(GetPlayers(args[1])) do
 		local vChar = v.Character
 local plrs = Players:GetPlayers()
