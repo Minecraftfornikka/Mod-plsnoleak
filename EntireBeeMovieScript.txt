@@ -1,10 +1,3 @@
--- Made by Nowhudhejeir
--- Note: Console chats all inputs, can be used for commands
--- Note: This is a 'beta' release as the script is not 100% finished, i'm constantly updating new features for yall to enjoy
-
-
--- // GUI Settings:
-
 _G.permadmin = false -- this will take a pad as soon as you join, set to true if you dont have perm (will skip servers with no pads when autocrashing)
 _G.removeobbykill = false -- will auto remove obby kill once you join the server
 _G.autoantivamp = true -- will auto blacklist vamp gear
@@ -1406,7 +1399,7 @@ game.Players.LocalPlayer.Chatted:Connect(
     end
 )
 
-addCommand("touch"),{"player"},function(args)
+addCommand("touch",{"player"},function(args)
 	for i,v in pairs(GetPlayers(args[1])) do
 		local vChar = v.Character
 local plrs = Players:GetPlayers()
