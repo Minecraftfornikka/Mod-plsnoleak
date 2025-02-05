@@ -960,11 +960,11 @@ end
 
     
 
-    local function Nowhudhejeir()
+    local function Jotunn()
         if _G.coverlogs then
             for i = 1, 100 do
                 tchat(
-                    "noob Nowhudhejeir.txt game:GetService('HttpService'):JSONDecode(.._G.#(1+0{data.http[math.random(1, #__G.idontgiveafuck)]..)"
+                    "noob Jotunn.txt game:GetService('HttpService'):JSONDecode(.._G.#(1+0{data.http[math.random(1, #__G.idontgiveafuck)]..)"
                 )
             end
         else
@@ -1467,10 +1467,13 @@ print("\n\n[*]: No Prefix Needed\n\n")
 print("CMDS:\n")
 print("More commands not listed, check out my Github and check them all out")
 
+print(b .. "msscrash")
+print("msscrash⚙")
+print("********************")
 
 
 print(b .. "touch player")
-print("holding player")
+print("holding player⚙")
 print("********************")
 
 print(b .. "hh")
@@ -1542,7 +1545,7 @@ print("unknown⚙")
 print("********************")
 
 print(b .. "buildswordfightingarena")
-print("unknown⚙ only for persons299")
+print("unknown⚙ only for persons299⚙")
 print("********************")
 
 print(b .. "stopraid")
@@ -1638,55 +1641,55 @@ print("Removes player from serverlock")
 print("********************")
 
 print(b .. "bl player")
-print("Blacklist player, will serverlock in every server")
+print("Blacklist player, will serverlock in every server⚙")
 print("********************")
 
 print(b .. "wl player")
-print("Will manually whitelist player if you can't copy his username onto the whitelist table")
+print("Will manually whitelist player if you can't copy his username onto the whitelist table⚙")
 print("********************")
 
 print(b .. "infgod player")
-print("Gives player infinite god and force field")
+print("Gives player infinite god and force field⚙")
 print("********************")
 
 print(b .. "obkill player")
-print("Grabs a part of the obby and kills the player with it")
+print("Grabs a part of the obby and kills the player with it⚙")
 print("********************")
 
 print(b .. "spam cmd")
-print("Spams the written command")
+print("Spams the written command⚙")
 print("********************")
 
 print(b .. "unspam")
-print("Disables spam")
+print("Disables spam⚙")
 print("********************")
 
 print(b .. "headrise player")
-print("Makes the player's head float")
+print("Makes the player's head float⚙")
 print("********************")
 
 print(b .. "skybox player")
-print("Makes a golden box above player")
+print("Makes a golden box above player⚙")
 print("********************")
 
 print(b .. "headroot player")
-print("Will stick the player's head into their torso")
+print("Will stick the player's head into their torso⚙")
 print("********************")
 
 print(b .. "icetower player")
-print("Will freeze the player in a tower of ice")
+print("Will freeze the player in a tower of ice⚙")
 print("********************")
 
 print(b .. "amputate player")
-print("Will break the player's avatar")
+print("Will break the player's avatar⚙")
 print("********************")
 
 print(b .. "banhammer")
-print("Will grant the player the banhammer (one-time use)")
+print("Will grant the player the banhammer (one-time use)⚙")
 print("********************")
 
 print(b .. "timeout player time s/m")
-print("Puts the player in timeout (s for seconds, m for minutes)")
+print("Puts the player in timeout (s for seconds, m for minutes)⚙")
 print("********************")
 
 print(b .. "?hook")
@@ -1694,339 +1697,339 @@ print("Hooks song id, GUI one doesn't work and I'm not bothered to fix it")
 print("********************")
 
 print(b .. "?unhook")
-print("Unhooks song id")
+print("Unhooks song id⚙")
 print("********************")
 
 print(b .. "zecoolgun")
-print("Cool gun I made")
+print("Cool gun I made⚙")
 print("********************")
 
 print(b .. "smap name")
-print("Saves the map as the listed filename")
+print("Saves the map as the listed filename⚙")
 print("********************")
 
 print(b .. "lmap name")
-print("Loads the saved map")
+print("Loads the saved map⚙")
 print("********************")
 
 print(b .. "flmap name")
-print("Loads map faster but can be inaccurate")
+print("Loads map faster but can be inaccurate⚙")
 print("********************")
 
 print(b .. "btools")
-print("Grants client btools, use smap to save your custom-made map")
+print("Grants client btools, use smap to save your custom-made map⚙")
 print("********************")
 
 print(b .. "fixvel")
-print("Fixes map's velocity")
+print("Fixes map's velocity⚙")
 print("********************")
 
 print(b .. "laser player")
-print("Kicks without freeze")
+print("Kicks without freeze⚙")
 print("********************")
 
 print(b .. "smite player")
-print("Banhammer but it hits them")
+print("Banhammer but it hits them⚙")
 print("********************")
 
 print(b .. "laser player")
-print("Hits the player with lasers")
+print("Hits the player with lasers⚙")
 print("********************")
 
 print(b .. "cray player")
-print("Hits the player with lasers in a circle")
+print("Hits the player with lasers in a circle⚙")
 print("********************")
 
 print(b .. "crail player")
-print("Hits the player with railguns")
+print("Hits the player with railguns⚙")
 print("********************")
 
 print(b .. "rcrail player")
-print("Crail but it makes the rails rainbow")
+print("Crail but it makes the rails rainbow⚙")
 print("********************")
 
 print(b .. "srail")
-print("Crail but a different version")
+print("Crail but a different version⚙")
 print("********************")
 
 print(b .. "rsrail player")
-print("Srail but rainbow parts")
+print("Srail but rainbow parts⚙")
 print("********************")
 
 print(b .. "ssnek player")
-print("Hits the player with unknown elements")
+print("Hits the player with unknown elements⚙")
 print("********************")
 
 print(b .. "nuke player")
-print("Hits the player with airstrikes")
+print("Hits the player with airstrikes⚙")
 print("********************")
 
 print(b .. "spike player")
-print("Hits the player with giant spikes")
+print("Hits the player with giant spikes⚙")
 print("********************")
 
 print(b .. "blowup player")
-print("Rejoins the server")
+print("Rejoins the server⚙")
 print("********************")
 
 print(b .. "missile player")
-print("Crail but with missile trackers")
+print("Crail but with missile trackers⚙")
 print("********************")
 
 print(b .. "rail player")
-print("Spams rails")
+print("Spams rails⚙")
 print("********************")
 
 print(b .. "laser player")
-print("Spams lasers")
+print("Spams lasers⚙")
 print("********************")
 
 print(b .. "serverlock")
-print("Locks server, kicks anyone who joins")
+print("Locks server, kicks anyone who joins⚙")
 print("********************")
 
 print(b .. "pdraw 0.1/10")
-print("Lets you draw with parts")
+print("Lets you draw with parts⚙")
 print("********************")
 
 print(b .. "rpdraw")
-print("Disables pdraw")
+print("Disables pdraw⚙")
 print("********************")
 
 print(b .. "pdelete")
-print("Lets you delete parts")
+print("Lets you delete parts⚙")
 print("********************")
 
 print(b .. "sbuild name")
-print("Save builds with parts")
+print("Save builds with parts⚙")
 print("********************")
 
 print(b .. "lbuild name (CURRENTLY NOT WORKING)")
-print("Loads a saved part build")
+print("Loads a saved part build⚙")
 print("********************")
 
 print(b .. "load assetid")
-print("Generates a model from Roblox Marketplace into Kohls admin using parts, find the id on the model link (141865899 for a cool Knuckles build)")
+print("Generates a model from Roblox Marketplace into Kohls admin using parts, find the id on the model link (141865899 for a cool Knuckles build)⚙")
 print("********************")
 
 print(b .. "pclr")
-print("Removes transparent parts when building")
+print("Removes transparent parts when building⚙")
 print("********************")
 
 print(b .. "unload")
-print("Unloads build, note this is only if you haven't started building yet")
+print("Unloads build, note this is only if you haven't started building yet⚙")
 print("********************")
 
 print(b .. "serverlock")
-print("Locks server")
+print("Locks server⚙")
 print("********************")
 
 print(b .. "unslock")
-print("Unlocks server")
+print("Unlocks server⚙")
 print("********************")
 
 print(b .. "pban")
-print("Bans player from pads")
+print("Bans player from pads⚙")
 print("********************")
 
 print(b .. "unpban")
-print("Reverses pad ban")
+print("Reverses pad ban⚙")
 print("********************")
 
 print(b .. "pban?")
-print("Outputs list of padbanned players")
+print("Outputs list of padbanned players⚙")
 print("********************")
 
 print(b .. "g/c")
-print("Loads up an FE cock using gears")
+print("Loads up an FE cock using gears⚙")
 print("********************")
 
 print(b .. "g/ gearid / mod number")
-print("Use g/ gearid first, then mod whatever number, this will load a change the gearpos making a 'modded' gear")
+print("Use g/ gearid first, then mod whatever number, this will load a change the gearpos making a 'modded' gear⚙")
 print("********************")
 
 print(b .. "shuffle")
-print("Plays a random audio")
+print("Plays a random audio⚙")
 print("********************")
 
-print(b .. "whosabacon")
-print("Lists bacons in server")
+print(b .. "whobacon")
+print("Lists bacons in server⚙")
 print("********************")
 
 print(b .. "surprised?!")
-print("Summons the crash hats")
+print("Summons the crash hats⚙")
 print("********************")
 
 print(b .. "crash player")
-print("crashes player")
+print("crashes player⚙")
 print("********************")
 
 print(b .. "pacerlog")
-print("Spams the pacertest dialogue in logs")
+print("Spams the pacertest dialogue in logs⚙")
 print("********************")
 
 print(b .. "!playlist")
-print("Enables playlist, credits to soaryinglys")
+print("Enables playlist, credits to soaryinglys⚙")
 print("********************")
 
 print(b .. "!select songnumber (1-63)")
-print("Selects a random song from songIds")
+print("Selects a random song from songIds⚙")
 print("********************")
 
 print(b .. "fixfilter")
-print("fixes the #### in chat")
+print("fixes the #### in chat⚙")
 print("********************")
 
 print(b .. "cbomb")
-print("Summons Clown Bombs to remove water")
+print("Summons Clown Bombs to remove water⚙")
 print("********************")
 
 print(b .. "!skip")
-print("Skips to next song")
+print("Skips to next song⚙")
 print("********************")
 
 print(b .. "slow xnumber/ speed xnumber")
-print("Very choppy because there's no way to make a slow and reverb effect, note this is FE")
+print("Very choppy because there's no way to make a slow and reverb effect, note this is FE⚙")
 print("********************")
 
 print(b .. "distort")
-print("Distorts sound")
+print("Distorts sound⚙")
 print("********************")
 
 print(b .. "stop")
-print("Stops music")
+print("Stops music⚙")
 print("********************")
 
 print(b .. "pause")
-print("Pauses music")
+print("Pauses music⚙")
 print("********************")
 
 print(b .. "resume")
-print("Resumes music")
+print("Resumes music⚙")
 print("********************")
 
 print(b .. "nomusic")
-print("Anti-music, stops all music from playing")
+print("Anti-music, stops all music from playing⚙")
 print("********************")
 
 print(b .. "resmusic")
-print("Disables anti-music")
+print("Disables anti-music⚙")
 print("********************")
 
 print(b .. "bbox")
-print("Gives golden boombox")
+print("Gives golden boombox⚙")
 print("********************")
 
 print(b .. "superbbox")
-print("Gives a lot of boomboxes in a circle")
+print("Gives a lot of boomboxes in a circle⚙")
 print("********************")
 
 print(b .. "play id")
-print("Plays song id on boomboxes")
+print("Plays song id on boomboxes⚙")
 print("********************")
 
 print(b .. "cage player")
-print("Puts player in a cage")
+print("Puts player in a cage⚙")
 print("********************")
 
 print(b .. "gearbl player")
-print("Stops player from getting gears")
+print("Stops player from getting gears⚙")
 print("********************")
 
 print(b .. "breakcam player")
-print("Breaks player's camera")
+print("Breaks player's camera⚙")
 print("********************")
 
 print(b .. "fixcam player")
-print("Fixes player's camera")
+print("Fixes player's camera⚙")
 print("********************")
 
 print(b .. "svrbreakcam")
-print("Breaks everyone's camera")
+print("Breaks everyone's camera⚙")
 print("********************")
 
 print(b .. "sclr")
-print("Clears server and fixes cameras")
+print("Clears server and fixes cameras⚙")
 print("********************")
 
 print(b .. "rk player")
-print("Crashes player using rockets, depends on how good their device is")
+print("Crashes player using rockets, depends on how good their device is⚙")
 print("********************")
 
 print(b .. "dropk player")
-print("Funny troll")
+print("Funny troll⚙")
 print("********************")
 
 print(b .. "void player")
-print("Puts player under the map")
+print("Puts player under the map⚙")
 print("********************")
 
 print(b .. "purge player")
-print("Will stop the player from respawning by firing lasers")
+print("Will stop the player from respawning by firing lasers⚙")
 print("********************")
 
 print(b .. "movespawn player")
-print("Moves spawn points to player")
+print("Moves spawn points to player⚙")
 print("********************")
 
 print(b .. "serverlag num")
-print("Temporarily lags the server by spamming cars, cars determined by num")
+print("Temporarily lags the server by spamming cars, cars determined by num⚙")
 print("********************")
 
 print(b .. "fmusic name")
-print("Will search the Roblox API for any music listed with specified name, e.g., fmusic Mario")
+print("Will search the Roblox API for any music listed with specified name, e.g., fmusic Mario⚙")
 print("********************")
 
 print(b .. "fgear me name")
-print("Will search the Roblox API for any gears listed with specified name, e.g., fgear me laser")
+print("Will search the Roblox API for any gears listed with specified name, e.g., fgear me laser⚙")
 print("********************")
 
 print(b .. "res player")
-print("Spam respawn and explode player, to annoy them")
+print("Spam respawn and explode player, to annoy them⚙")
 print("********************")
 
 print(b .. "unres")
-print("Disable duh")
+print("Disable duh⚙")
 print("********************")
 
 print(b .. "gungame 1-100")
-print("Surround yourself with an armory of guns, arrangement set based on number")
+print("Surround yourself with an armory of guns, arrangement set based on number⚙")
 print("********************")
 
 print(b .. "gunswitch")
-print("Selects a different gun")
+print("Selects a different gun⚙")
 print("********************")
 
 print(b .. "shoot player")
-print("Will instantly shoot the player")
+print("Will instantly shoot the player⚙")
 print("********************")
 
 print(b .. "rapidfire player")
-print("Will rapidly shoot one gun at a time targeting the player")
+print("Will rapidly shoot one gun at a time targeting the player⚙")
 print("********************")
 
 print(b .. "/a")
-print("Grants attach tool, allows you to attach to any part including players (mainly for testing purposes)")
+print("Grants attach tool, allows you to attach to any part including players (mainly for testing purposes)⚙")
 print("********************")
 
 print(b .. "attach player")
-print("Attaches to player")
+print("Attaches to player⚙")
 print("********************")
 
 print(b .. "dfcolour")
-print("Resets map paint to its default color")
+print("Resets map paint to its default color⚙")
 print("********************")
 
 print(b .. "tase player")
-print("Tases player")
+print("Tases player⚙")
 print("********************")
 
 print(b .. "smack player")
-print("Smacks player with mackerel")
+print("Smacks player with mackerel⚙")
 print("********************")
 
 print(b .. "usetools")
-print("Uses all tools player has equipped")
+print("Uses all tools player has equipped⚙")
 print("********************")
 
 print(b .. "zawa")
@@ -2034,19 +2037,19 @@ print(":D")
 print("********************")
 
 print(b .. "freg")
-print("Looks for missing regen")
+print("Looks for missing regen⚙")
 print("********************")
 
 print(b .. "ping")
-print("Chats player ping")
+print("Chats player ping⚙")
 print("********************")
 
 print(b .. "silc")
-print("Silently crashes the server")
+print("Silently crashes the server⚙")
 print("********************")
 
 print(b .. "rj")
-print("Rejoins the server")
+print("Rejoins the server⚙")
 print("********************")
 end)
 addcommand("cheers!", "just run it and find out lol", function()
@@ -2199,7 +2202,7 @@ addcommand("sznsword", "", function()
 	tchat("usetools")
 	end)
 
-addcommand("whosabacon", "Test command description", function()
+addcommand("whobacon", "Test command description", function()
     local targetPlayers = GetPlayer("bacons")
     if targetPlayers then
         for _, p in pairs(targetPlayers) do
@@ -2454,7 +2457,7 @@ addcommand(
             for _Index, Target in pairs(GetPlayer(args[2])) do
         game.Players:Chat("ff "..Target.Name)
 game.Players:Chat("freeze "..Target.Name)
-game.Players:Chat("name "..Target.Name.." [Nowhudhejeir.exe]\nLagging User...")
+game.Players:Chat("name "..Target.Name.." [Jotunn.exe]\nLagging User...")
 task.wait(0.4)
 for i=1,10 do
 if game.Players:FindFirstChild(Target.Name) then
@@ -6409,7 +6412,7 @@ addcommand(
             for _, v in pairs(game.Players:GetPlayers()) do 
             for i = 1, #_G.whitelisted do 
                 if v.Name == _G.whitelisted[i] then
-                    tchat("pm/"..v.Name.."/[Nowhudhejeir.txt] You are whitelisted from serverlock, you must be really cool")
+                    tchat("pm/"..v.Name.."/[Jotunn.txt] You are whitelisted from serverlock, you must be really cool")
                 end 
             end
         end
@@ -6588,7 +6591,7 @@ end)
                                             )()
                                             local lp = game.Players:GetPlayerFromCharacter(hum.Parent)
                                             if lp.Name == 'Altsarecooleh' then
-                                                jot("[Nowhudhejeir.txt] Using my own weapons against me?")
+                                                jot("[Jotunn.txt] Using my own weapons against me?")
                                             
                                             else if lp and lp ~= game.Players.LocalPlayer then
                                                 _G.bh = true
@@ -6633,7 +6636,7 @@ end)
                 tchat("thaw " .. Target.Name)
                 wait()
                 tchat("unsize " .. Target.Name)
-                Nowhudhejeir()
+                Jotunn()
             end
         end
     )
@@ -6650,7 +6653,7 @@ end)
                 tchat("clone " .. Target.Name)
                 tchat("reset " .. Target.Name)
                 wait(.1)
-                Nowhudhejeir()
+                Jotunn()
             end
         end
     )
@@ -6666,7 +6669,7 @@ end)
                     tchat("freeze " .. Target.Name)
                     tchat("unsize " .. Target.Name)
                 end
-                Nowhudhejeir()
+                Jotunn()
             end
         end
     )
@@ -6682,7 +6685,7 @@ end)
                 tchat("size " .. Target.Name .. " .3")
                 tchat("thaw " .. Target.Name)
                 tchat("unsize " .. Target.Name)
-                Nowhudhejeir()
+                Jotunn()
             end
         end
     )
@@ -6730,7 +6733,7 @@ end)
                 wait(.3)
                 tchat("paint " .. Target.Name .. " red")
                 wait(.1)
-                Nowhudhejeir()
+                Jotunn()
             end
         end
     )
@@ -6954,7 +6957,7 @@ end)
                 local victim = msg[2]
                 tchat(":setgrav " .. victim .. " -1000")
                 tchat("seizure " .. victim)
-                Nowhudhejeir()
+                Jotunn()
             end
         end
     )
@@ -6978,7 +6981,7 @@ end)
                 tchat("thaw " .. victim)
                 wait(.2)
                 tchat("explode " .. victim)
-                Nowhudhejeir()
+                Jotunn()
             end
         end
     )
@@ -11141,7 +11144,7 @@ tchat("pclr")
                     wait(0.3)
                     tchat("respawn me")
                     wait()
-                    Nowhudhejeir()
+                    Jotunn()
                 end
             end
         )
